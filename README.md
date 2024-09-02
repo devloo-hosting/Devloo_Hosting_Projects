@@ -10,8 +10,30 @@ Website: https://fmhl.devloo.xyz/
 
 # Free Discord Hosting Providers
 
-Coming soon!
+Bot-Hosting
+24/7 hosting, python or js!
 
+https://bot-hosting.net/
+
+DakiCC
+Dashboard / Panel, 24/7 hosting, ddos protection, forever free plan!
+
+https://daki.cc/
+
+FPS MS
+Infinitely running discord bot hosting, NodeJS and Python!
+
+https://fps.ms/free-discord-bot-hosting/
+
+Direnodes
+Python, Elixir and NodeJS, 24/7, free plan!
+
+https://diresnode.com/
+
+Bot Ghost
+Drag and drop, 24/7, forced ads, control panel.
+
+https://botghost.com/
 # Free Web hosting providers
 
 Infinity Free
