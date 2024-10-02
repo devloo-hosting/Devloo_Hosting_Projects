@@ -1,6 +1,10 @@
 # Devloo Hosting Projects
 Collection of devloo hosting projects.
 
+# Devloo Hosting
+
+Website: https://devloo.xyz/
+
 # Free Minecraft Hosting List
 All current free minecraft hosting providers.
 
